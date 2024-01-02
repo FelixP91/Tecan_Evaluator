@@ -11,7 +11,7 @@ This repository contains two main files:
 
 * /A
   * code for running the evaluation of a TECAN output file (.xlsx)
-* /B
+* /TECAN_output_file.xls
   * example file that acn be used for running the code (
 
 
