@@ -1,5 +1,5 @@
 # Tecan_Evaluator
-Evaluates kinetic measurements by a TECAN photometer
+Evaluates kinetic measurements by a TECAN photometer.
 
 ## Description
 
